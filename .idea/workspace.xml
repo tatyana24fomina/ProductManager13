@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95494e54-ef3f-4c8c-ba24-33c65e59af4b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2FJiQc14VSeGUvOzGYZquFai2pm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/123" />
+  </component>
+  <component name="RunManager" selected="JUnit.ProductRepositoryTest.shouldFindAll">
+    <configuration name="ProductManagerTest.shouldMatches" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProductManager13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.ProductManagerTest" />
+      <option name="METHOD_NAME" value="shouldMatches" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductManagerTest.shouldMatchesNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProductManager13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.ProductManagerTest" />
+      <option name="METHOD_NAME" value="shouldMatchesNegative" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductRepositoryTest.shouldFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProductManager13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.ru.netology.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.ru.netology" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.ru.netology.ProductRepositoryTest" />
+      <option name="METHOD_NAME" value="shouldFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductRepositoryTest.shouldRemoveById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProductManager13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.ru.netology.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.ru.netology" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.ru.netology.ProductRepositoryTest" />
+      <option name="METHOD_NAME" value="shouldRemoveById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductRepositoryTest.shouldSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProductManager13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.ru.netology.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.ru.netology" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.ru.netology.ProductRepositoryTest" />
+      <option name="METHOD_NAME" value="shouldSave" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProductRepositoryTest.shouldFindAll" />
+        <item itemvalue="JUnit.ProductRepositoryTest.shouldRemoveById" />
+        <item itemvalue="JUnit.ProductRepositoryTest.shouldSave" />
+        <item itemvalue="JUnit.ProductManagerTest.shouldMatchesNegative" />
+        <item itemvalue="JUnit.ProductManagerTest.shouldMatches" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95494e54-ef3f-4c8c-ba24-33c65e59af4b" name="Default Changelist" comment="" />
+      <created>1664216572875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664216572875</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1665038693434">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="17" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1665038693434" />
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1665069430250">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1665069430250" />
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1665070125264">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1665070125264" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1665070125264">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1665070125264" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1665070125264">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1665070125264" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1665070125264">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1665070125264" />
+    <state x="389" y="110" key="refactoring.ChangeSignatureDialog" timestamp="1664456692775">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="110" key="refactoring.ChangeSignatureDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1664456692775" />
+  </component>
+</project>
